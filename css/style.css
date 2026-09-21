@@ -8,3 +8,6 @@ html{
     font-size: 2rem;
     font-weight: bold;
 }
+.beaty{
+    text-shadow: 2px 2px 2px rebeccapurple, 1px 1px 1px black;
+}
